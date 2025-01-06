@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I Study Mechanical Engineering at Boston University
 <!--
 **ngilbert-bu/ngilbert-bu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
